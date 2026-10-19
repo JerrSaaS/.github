@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JerrSaaS/jerr-saas/main/assets/banner/tree-ia-forjando-codigo.png" alt="TREE IA forjando código em uma obra digital" width="100%" />
+  <img src="https://raw.githubusercontent.com/JerrSaaS/.github/main/profile/assets/tree-ia-forjando-codigo.png" alt="TREE IA forjando código em uma obra digital" width="100%" />
 </p>
 
 # JerrSaaS — Construindo o Futuro
